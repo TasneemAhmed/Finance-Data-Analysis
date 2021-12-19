@@ -9,8 +9,10 @@
 
 4. Make different analysis on data
 
-  like show Education status of customers:
+   like show Education status of customers:
+  
 ![newplot](https://user-images.githubusercontent.com/49993791/146673441-19d19397-520d-4221-a9a6-3469d6194037.png)
 
 5. Make A/B Testing 
+6. 
   Showing if Age, Icome and Family features have impact on taking personal loan or not
