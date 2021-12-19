@@ -15,4 +15,4 @@
 
 5. Make A/B Testing 
 
-  Showing if Age, Icome and Family features have impact on taking personal loan or not
+    Showing if Age, Icome and Family features have impact on taking personal loan or not
